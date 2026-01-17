@@ -1,0 +1,83 @@
+{
+  "grade": "الصف الثاني الثانوي",
+  "section": "القسم العلمي",
+  "part": "الجزء الثاني",
+  "books": [
+    {
+      "name": "القرآن الكريم وعلومه",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/holy_quran_part1_11th.pdf"
+    },
+    {
+      "name": "الحديث والفقه",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/al_hadith_fikh_part1_11th.pdf"
+    },
+    {
+      "name": "الإيمان",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/al_eiman_11th.pdf"
+    },
+    {
+      "name": "السيرة النبوية - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/al_sira_part2_11th.pdf"
+    },
+    {
+      "name": "الأدب والنصوص والبلاغة",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/nosos_part1_11th.pdf"
+    },
+    {
+      "name": "النحو والصرف",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/nahw_part1_11th.pdf"
+    },
+    {
+      "name": "الحاسوب",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/computer_11th.pdf"
+    },
+    {
+      "name": "القراءة - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/reading_part2_11th.pdf"
+    },
+    {
+      "name": "التاريخ - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/history_part2_11th%e2%80%ab%e2%80%ac.pdf"
+    },
+    {
+      "name": "اللغة الإنجليزية",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/english_pubils_11th.pdf"
+    },
+    {
+      "name": "اللغة الإنجليزية (تمارين)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/english_work_11th.pdf"
+    },
+    {
+      "name": "الرياضيات - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/mathematic_part2_11th.pdf"
+    },
+    {
+      "name": "الرياضيات (تمارين)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/exercise_mathe_11th.pdf"
+    },
+    {
+      "name": "الفيزياء",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/physical_11th.pdf"
+    },
+    {
+      "name": "الفيزياء (الأنشطة)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/physical_actions_11th.pdf"
+    },
+    {
+      "name": "علم الأحياء وعلم الأرض",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/biology_11th.pdf"
+    },
+    {
+      "name": "علم الأحياء وعلم الأرض (الأنشطة)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/biology_actions_11th.pdf"
+    },
+    {
+      "name": "الكيمياء",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/chemistry_11th.pdf"
+    },
+    {
+      "name": "الكيمياء (الأنشطة)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_11/chemistry_actions_11th.pdf"
+    }
+  ]
+}
