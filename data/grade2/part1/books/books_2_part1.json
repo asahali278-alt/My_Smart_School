@@ -1,0 +1,26 @@
+{
+  "grade": "الصف الثاني",
+  "part": "الجزء الأول",
+  "books": [
+    {
+      "name": "القرآن الكريم وعلومه",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_2/quran_2nd.pdf"
+    },
+    {
+      "name": "التربية الإسلامية",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_2/islamic_2nd.pdf"
+    },
+    {
+      "name": "لغتي العربية - الجزء الأول",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_2/reading_part1_2th.pdf"
+    },
+    {
+      "name": "الرياضيات - الجزء الأول",
+      "url": ""
+    },
+    {
+      "name": "العلوم - الجزء الأول",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_2/science_part1_2th.pdf"
+    }
+  ]
+}

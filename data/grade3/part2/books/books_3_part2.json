@@ -1,0 +1,30 @@
+{
+  "grade": "الصف الثالث",
+  "part": "الجزء الثاني",
+  "books": [
+    {
+      "name": "القرآن الكريم",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_3/quran_3th.pdf"
+    },
+    {
+      "name": "التربية الإسلامية",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_3/islamic_3th.pdf"
+    },
+    {
+      "name": "لغتي العربية - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_3/reading_part2_3th.pdf"
+    },
+    {
+      "name": "الرياضيات - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_3/mathematics_part2_3th.pdf"
+    },
+    {
+      "name": "العلوم - الجزء الثاني",
+      "url": "https://www.e-learning-moe.edu.ye/adel/android_1/book_3/science_part2_3th.pdf"
+    },
+    {
+      "name": "التربية الاجتماعية",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_3/social_studies_3th.pdf"
+    }
+  ]
+}
