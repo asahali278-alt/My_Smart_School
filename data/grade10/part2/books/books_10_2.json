@@ -1,0 +1,94 @@
+{
+  "grade": "الصف الأول الثانوي",
+  "part": "الجزء الثاني",
+  "books": [
+    {
+      "name": "القرآن الكريم وعلومه",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/holy_quran_10th.pdf"
+    },
+    {
+      "name": "الحديث والتهذيب",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/al_hadith_fikh_10th.pdf"
+    },
+    {
+      "name": "الفقه",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/fikh_10th.pdf"
+    },
+    {
+      "name": "الإيمان",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/al_eiman_10th.pdf"
+    },
+    {
+      "name": "السيرة النبوية",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/al_sira_10th.pdf"
+    },
+    {
+      "name": "الأدب والنصوص والبلاغة",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/nosos_part1_10th.pdf"
+    },
+    {
+      "name": "النحو والصرف",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/nahw_part1_10th.pdf"
+    },
+    {
+      "name": "الحاسوب",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/computer_10th.pdf"
+    },
+    {
+      "name": "القراءة - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/reading_part2_10th%e2%80%ab%e2%80%ac.pdf"
+    },
+    {
+      "name": "تاريخ حضارات العالم القديم",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/history_part1_10th.pdf"
+    },
+    {
+      "name": "اللغة الإنجليزية",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/english_pubils_10th.pdf"
+    },
+    {
+      "name": "اللغة الإنجليزية (تمارين)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/english_work_10th.pdf"
+    },
+    {
+      "name": "الرياضيات - الجزء الثاني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/mathematic_part2_10th.pdf"
+    },
+    {
+      "name": "الرياضيات (تمارين)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/exercise_mathematic_10th.pdf"
+    },
+    {
+      "name": "الفيزياء",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/physical_10th.pdf"
+    },
+    {
+      "name": "الفيزياء (الأنشطة)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/physical_actions_10th.pdf"
+    },
+    {
+      "name": "علم الأحياء وعلم الأرض",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/biology_10th.pdf"
+    },
+    {
+      "name": "علم الأحياء وعلم الأرض (الأنشطة)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/biology_actions_10th.pdf"
+    },
+    {
+      "name": "الكيمياء",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/chemistry_10th.pdf"
+    },
+    {
+      "name": "الكيمياء (الأنشطة)",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/chemistry_actions_10th.pdf"
+    },
+    {
+      "name": "جغرافية الإنسان والبيئة",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/geographic_10th.pdf"
+    },
+    {
+      "name": "المجتمع اليمني",
+      "url": "https://e-learning-moe.edu.ye/adel/android_1/book_10/yemeni_society_10th.pdf"
+    }
+  ]
+}
