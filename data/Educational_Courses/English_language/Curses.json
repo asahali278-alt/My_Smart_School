@@ -23,7 +23,14 @@
     "teacher_name": "ابراهيم عادل",
     "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_reading_stories_course.json"
   },
+  {
+    "course_id": 5,
+    "course_name": "دروس تعليم اللغة الانجليزية",
+    "teacher_name": "ابراهيم عادل",
+    "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/zamerican_full_course.json"
+  },
 ]
+
 
 
 
