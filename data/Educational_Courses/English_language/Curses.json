@@ -35,7 +35,14 @@
     "teacher_name": "ابراهيم عادل",
     "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/zamerican_listening_course.json"
   },
+  {
+    "course_id": 7,
+    "course_name": "كورس الصوتيات تعلم النطق الحروف الإنجليزية بشكل صحيح : المستوى الاول",
+    "teacher_name": "ابراهيم عادل",
+    "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/zamerican_phonics_course.json"
+  }
 ]
+
 
 
 
