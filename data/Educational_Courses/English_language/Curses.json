@@ -13,9 +13,16 @@
   },
   {
     "course_id": 3,
-    "course_name": "كورس شامل لتعلم اللغة الانجليزية من الصفر للمبتدئين كورس كامل من البداية الى الاحتراف - المستوى الاول",
+    "course_name": "قواعد اللغة الانجليزية وشرح الازمنة - المستوى - الجميع",
+    "teacher_name": "ابراهيم عادل",
+    "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_grammar_course.json"
+  },
+  {
+    "course_id": 3,
+    "course_name": "قواعد اللغة الانجليزية وشرح الازمنة - المستوى - الجميع",
     "teacher_name": "ابراهيم عادل",
     "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_grammar_course.json"
   },
 ]
+
 
