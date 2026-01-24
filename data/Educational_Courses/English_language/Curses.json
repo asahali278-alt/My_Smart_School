@@ -10,5 +10,12 @@
     "course_name": "كورس تعلم اللغة الانجليزية للمبتدين من الصفر",
     "teacher_name": "لمياء الشوافي",
     "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_from_zero_playlist.json"
-  }
+  },
+  {
+    "course_id": 3,
+    "course_name": "كورس شامل لتعلم اللغة الانجليزية من الصفر للمبتدئين كورس كامل من البداية الى الاحتراف - المستوى الاول",
+    "teacher_name": "ابراهيم عادل",
+    "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_grammar_course.json"
+  },
 ]
+
