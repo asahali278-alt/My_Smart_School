@@ -18,11 +18,12 @@
     "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_grammar_course.json"
   },
   {
-    "course_id": 3,
-    "course_name": "قواعد اللغة الانجليزية وشرح الازمنة - المستوى - الجميع",
+    "course_id": 4,
+    "course_name": "كورس القراءة - المستوى الاول",
     "teacher_name": "ابراهيم عادل",
-    "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_grammar_course.json"
+    "data_url": "https://cdn.jsdelivr.net/gh/asahali278-alt/My_Smart_School@main/data/Educational_Courses/English_language/english_reading_stories_course.json"
   },
 ]
+
 
 
