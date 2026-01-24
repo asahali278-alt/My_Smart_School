@@ -1,0 +1,182 @@
+
+{
+  "course": "كورس شامل لتعلم اللغة الانجليزية من الصفر للمبتدئين كورس كامل من البداية الى الاحتراف - المستوى الاول",
+  "provider": "ZAmerican English - إبراهيم عادل",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "تعلم اللغة الإنجليزية من الصفر للمبتدئين بأفضل طريقة",
+      "episode": 1,
+      "type": "video",
+      "url": "https://youtu.be/77IK9T45kiU"
+    },
+    {
+      "id": 2,
+      "title": "تعلم الوظائف باللغة الإنجليزية",
+      "episode": 2,
+      "type": "video",
+      "url": "https://youtu.be/AZZCsweJaiw"
+    },
+    {
+      "id": 3,
+      "title": "كلمات عن العائلة",
+      "episode": 3,
+      "type": "video",
+      "url": "https://youtu.be/S_deJPyvtfo"
+    },
+    {
+      "id": 4,
+      "title": "كلمات المنزل والفصل",
+      "episode": 4,
+      "type": "video",
+      "url": "https://youtu.be/m8VUaW1b_z8"
+    },
+    {
+      "id": 5,
+      "title": "تكملة كلمات الوظائف",
+      "episode": 5,
+      "type": "video",
+      "url": "https://youtu.be/gBhK2m_CdQc"
+    },
+    {
+      "id": 6,
+      "title": "مفردات عن الحيوانات",
+      "episode": 6,
+      "type": "video",
+      "url": "https://youtu.be/Th9S81mblxo"
+    },
+    {
+      "id": 7,
+      "title": "الصفات المضادة في اللغة الإنجليزية",
+      "episode": 7,
+      "type": "video",
+      "url": "https://youtu.be/gZBAXCRrl_U"
+    },
+    {
+      "id": 8,
+      "title": "كلمات عن الخضروات",
+      "episode": 8,
+      "type": "video",
+      "url": "https://youtu.be/63Riw1SEDPk"
+    },
+    {
+      "id": 9,
+      "title": "تعلم الأرقام الإنجليزية",
+      "episode": 9,
+      "type": "video",
+      "url": "https://youtu.be/pI3CrFMsduY"
+    },
+    {
+      "id": 10,
+      "title": "كلمات عن الوقت",
+      "episode": 10,
+      "type": "video",
+      "url": "https://youtu.be/q_bAo_n0pDU"
+    },
+    {
+      "id": 11,
+      "title": "كلمات عن التاريخ",
+      "episode": 11,
+      "type": "video",
+      "url": "https://youtu.be/HIz-rb0lMAY"
+    },
+    {
+      "id": 12,
+      "title": "كلمات عن الرياضة",
+      "episode": 12,
+      "type": "video",
+      "url": "https://youtu.be/QQ66VKPsAag"
+    },
+    {
+      "id": 13,
+      "title": "أجزاء الجسم باللغة الإنجليزية",
+      "episode": 13,
+      "type": "video",
+      "url": "https://youtu.be/LBdAxKWOz1c"
+    },
+    {
+      "id": 14,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 14,
+      "type": "video",
+      "url": "https://youtu.be/pqGg9MiP2ic"
+    },
+    {
+      "id": 15,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 15,
+      "type": "video",
+      "url": "https://youtu.be/vLUn6_FMw3w"
+    },
+    {
+      "id": 16,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 16,
+      "type": "video",
+      "url": "https://youtu.be/NDuK8lpN-mI"
+    },
+    {
+      "id": 17,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 17,
+      "type": "video",
+      "url": "https://youtu.be/qQAgJxSSnbw"
+    },
+    {
+      "id": 18,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 18,
+      "type": "video",
+      "url": "https://youtu.be/l51hYjeR-K8"
+    },
+    {
+      "id": 19,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 19,
+      "type": "video",
+      "url": "https://youtu.be/80tPPnffuMM"
+    },
+    {
+      "id": 20,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 20,
+      "type": "video",
+      "url": "https://youtu.be/86GViC7Hi44"
+    },
+    {
+      "id": 21,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 21,
+      "type": "video",
+      "url": "https://youtu.be/v4QDGr_18v4"
+    },
+    {
+      "id": 22,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 22,
+      "type": "video",
+      "url": "https://youtu.be/HwKM7TBWHe0"
+    },
+    {
+      "id": 23,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 23,
+      "type": "video",
+      "url": "https://youtu.be/HF1XhS5Tsok"
+    },
+    {
+      "id": 24,
+      "title": "كورس كامل من البداية إلى الاحتراف",
+      "episode": 24,
+      "type": "video",
+      "url": "https://youtu.be/nRA4y5Xe-eY"
+    },
+    {
+      "id": 25,
+      "title": "مراجعة بالصوت والصورة",
+      "episode": 25,
+      "type": "video",
+      "url": "https://youtu.be/5VQJOtRNiFU"
+    }
+  ]
+}

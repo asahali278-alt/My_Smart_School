@@ -1,0 +1,121 @@
+
+{
+  "course": "كورس الاستماع - تقوية مهارة الاستماع - المستوى الاول",
+  "provider": "ZAmerican English - إبراهيم عادل",
+  "category": "Listening Skill",
+  "description": "كورس كامل لتعلم وتحسين مهارة الاستماع في اللغة الإنجليزية من الصفر حتى مستوى قوي في الفهم السمعي",
+  "lessons": [
+    {
+      "id": 0,
+      "title": "المقدمة",
+      "episode": 0,
+      "type": "video",
+      "url": "https://youtu.be/LtrWXSeaDz8"
+    },
+    {
+      "id": 1,
+      "title": "تعلم مهارة الاستماع - الحلقة 1",
+      "episode": 1,
+      "type": "video",
+      "url": "https://youtu.be/FoxJ1JzYnbs"
+    },
+    {
+      "id": 2,
+      "title": "تعلم مهارة الاستماع - الحلقة 2",
+      "episode": 2,
+      "type": "video",
+      "url": "https://youtu.be/2qz5BG9xtlc"
+    },
+    {
+      "id": 3,
+      "title": "تعلم مهارة الاستماع - الحلقة 3",
+      "episode": 3,
+      "type": "video",
+      "url": "https://youtu.be/kFVLZRIMoV4"
+    },
+    {
+      "id": 4,
+      "title": "تعلم مهارة الاستماع - الحلقة 4",
+      "episode": 4,
+      "type": "video",
+      "url": "https://youtu.be/WrmQrEQ1ujE"
+    },
+    {
+      "id": 5,
+      "title": "تعلم مهارة الاستماع - الحلقة 5",
+      "episode": 5,
+      "type": "video",
+      "url": "https://youtu.be/tMfezsO5ewI"
+    },
+    {
+      "id": 6,
+      "title": "تعلم مهارة الاستماع - الحلقة 6",
+      "episode": 6,
+      "type": "video",
+      "url": "https://youtu.be/NP2g734jQPg"
+    },
+    {
+      "id": 7,
+      "title": "تعلم مهارة الاستماع - الحلقة 7",
+      "episode": 7,
+      "type": "video",
+      "url": "https://youtu.be/a1lySMuY-R8"
+    },
+    {
+      "id": 8,
+      "title": "تعلم مهارة الاستماع - الحلقة 8",
+      "episode": 8,
+      "type": "video",
+      "url": "https://youtu.be/QXZYTGG5vIE"
+    },
+    {
+      "id": 9,
+      "title": "تعلم مهارة الاستماع - الحلقة 9",
+      "episode": 9,
+      "type": "video",
+      "url": "https://youtu.be/Q-Yu-eRD-lY"
+    },
+    {
+      "id": 10,
+      "title": "تعلم مهارة الاستماع - الحلقة 10",
+      "episode": 10,
+      "type": "video",
+      "url": "https://youtu.be/LKXVYdDB0GM"
+    },
+    {
+      "id": 11,
+      "title": "تعلم مهارة الاستماع - الحلقة 11",
+      "episode": 11,
+      "type": "video",
+      "url": "https://youtu.be/BaUY36rVS0E"
+    },
+    {
+      "id": 12,
+      "title": "تعلم مهارة الاستماع - الحلقة 12",
+      "episode": 12,
+      "type": "video",
+      "url": "https://youtu.be/9GkqXNu0fro"
+    },
+    {
+      "id": 13,
+      "title": "تعلم مهارة الاستماع - الحلقة 13",
+      "episode": 13,
+      "type": "video",
+      "url": "https://youtu.be/HWz36dzGtkI"
+    },
+    {
+      "id": 14,
+      "title": "تعلم مهارة الاستماع - الحلقة 14",
+      "episode": 14,
+      "type": "video",
+      "url": "https://youtu.be/ntGUoLae54k"
+    },
+    {
+      "id": 15,
+      "title": "تعلم مهارة الاستماع - الحلقة 15",
+      "episode": 15,
+      "type": "video",
+      "url": "https://youtu.be/u11Vm_fZOvc"
+    }
+  ]
+}
